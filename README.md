@@ -5,7 +5,7 @@
     Emial:BreezeDust@qq.com
     BreezeDust's webSite:http://www.breezedist.com
     JBreeze :http://JBreeze.breezedust.com
-    Other Contributors; Licensed MIT
+    Licensed: MIT
  
     Permission is hereby granted, free of charge, to any person obtaining a copy of this 
     software and associated documentation files (the "Software"), to deal in the Software 
