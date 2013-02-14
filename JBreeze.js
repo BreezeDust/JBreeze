@@ -2,7 +2,7 @@
 *   JBreeze V1.0
 *   Copyright (C) 2013 BreezeDust(Yang Li) 
 *   Emial:BreezeDust@qq.com
-*   BreezeDust's webSite:http://www.breezedist.com
+*   webSite:http://www.breezedist.com
 *   JBreeze :http://JBreeze.breezedust.com
 *   Licensed: MIT
 *
