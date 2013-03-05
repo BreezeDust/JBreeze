@@ -625,7 +625,7 @@
             this.JBbar_ = null;
             
             if (CleanStyle) CleanStyle = "";
-            else isChildStyle = "JBNavigationBarA";
+            else CleanStyle = "JBNavigationBarA";
             if (!nameArray) nameArray = new Array();
             if (!hrefArray) hrefArray = new Array();
 
