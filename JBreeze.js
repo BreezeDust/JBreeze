@@ -709,8 +709,8 @@
                 oldTop = toDom.offsetTop;
 
                 toDom.style.position = "absolute";
-                toDom.style.posLeft = oldLeft + event.clientX - eX;
-                toDom.style.posTop = oldTop + event.clientY - eY;
+                toDom.style.left = oldLeft + event.clientX - eX+"px";
+                toDom.style.top = oldTop + event.clientY - eY+"px";
 
                 //zindex = toDom.style.zIndex;
                 //toDom.style.zIndex = 100;
@@ -725,8 +725,8 @@
                  if (Mousedown) {
                      var sx = oldLeft + event.clientX - eX;
                      var sy = oldTop + event.clientY - eY;
-                     toDom.style.posLeft = sx;
-                     toDom.style.posTop = sy;
+                     toDom.style.left = sx+"px";
+                     toDom.style.top = sy+"px";
                  }
              }
             );
