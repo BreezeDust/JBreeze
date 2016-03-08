@@ -1,4 +1,5 @@
-#[Get New JBreeze and Help](http://JBreeze.breezedust.com/)
+# Get New JBreeze and Help
+[Document](http://JBreeze.breezedust.com/)
     
     JBreeze V1.0
     Copyright (C) 2013 BreezeDust(Yang Li) 
