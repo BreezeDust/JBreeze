@@ -1,6 +1,7 @@
-# Get New JBreeze and Help
+# Get New JBreeze and Help:
 [Document](http://JBreeze.breezedust.com/)
-    
+
+# License:
     JBreeze V1.0
     Copyright (C) 2013 BreezeDust(Yang Li) 
     Emial:BreezeDust@qq.com
